@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj": {}
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj": {
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj",
         "projectName": "ContactService.Application",
-        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj",
+        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj",
         "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Application\\obj\\",
+        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

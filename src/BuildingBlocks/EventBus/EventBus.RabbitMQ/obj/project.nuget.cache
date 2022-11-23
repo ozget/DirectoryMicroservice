@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/biS+3vYvOcadEnzdDY2eFxRW8d3HTDmeaMqt2bOECrRw+aYkOv3OWi4mSbZZ89LWJc4JpBkeoGXArY+jNM+AA==",
+  "dgSpecHash": "GHjZQiIidz3rpDDLteX9hdbgHpcXrDyNRfx4pcaIaO/7PoK9HolTyN71Icj05O0NsNxIgEbDCRWSY+Nga+qPHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

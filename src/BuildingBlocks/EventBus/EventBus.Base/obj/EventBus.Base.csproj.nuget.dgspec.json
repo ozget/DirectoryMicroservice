@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {}
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "projectName": "EventBus.Base",
-        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
+        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

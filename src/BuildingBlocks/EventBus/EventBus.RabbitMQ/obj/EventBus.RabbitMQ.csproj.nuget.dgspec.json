@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {}
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "projectName": "EventBus.RabbitMQ",
-        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
+        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

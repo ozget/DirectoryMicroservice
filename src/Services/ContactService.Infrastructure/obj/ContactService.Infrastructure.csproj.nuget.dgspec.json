@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj": {}
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj": {
+    "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj",
         "projectName": "ContactService.Infrastructure",
-        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\ContactService.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

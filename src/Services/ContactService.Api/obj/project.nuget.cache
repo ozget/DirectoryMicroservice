@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8SF8LTUkJq5MzPmReId6WCauJBtY4zDw+TlEnrP6jNZKwUvc7ypeoOpYfNbkuT809D0un13/XaePzeBFCg7PUA==",
+  "dgSpecHash": "071F7AaVPZSAfgaj5Kxcc6mMcvG5hNnui63Wv9bsQq5hz+6MgKVn3sKB275u79joSP5Xh9UMRm8CBYeeYacZ+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ContactService.Api\\ContactService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Api\\ContactService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

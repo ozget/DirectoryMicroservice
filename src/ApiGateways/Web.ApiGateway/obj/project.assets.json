@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\Web.ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\Web.ApiGateway.csproj",
       "projectName": "Web.ApiGateway",
-      "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\Web.ApiGateway.csproj",
+      "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\Web.ApiGateway.csproj",
       "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\ApiGateways\\Web.ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

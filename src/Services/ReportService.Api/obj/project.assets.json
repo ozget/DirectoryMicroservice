@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ReportService.Api\\ReportService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ReportService.Api\\ReportService.Api.csproj",
       "projectName": "ReportService.Api",
-      "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ReportService.Api\\ReportService.Api.csproj",
+      "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ReportService.Api\\ReportService.Api.csproj",
       "packagesPath": "C:\\Users\\ozge.toprak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\DirectoryProject\\src\\Services\\ReportService.Api\\obj\\",
+      "outputPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ReportService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
