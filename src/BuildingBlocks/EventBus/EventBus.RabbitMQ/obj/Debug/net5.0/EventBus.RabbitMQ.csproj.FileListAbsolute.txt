@@ -1,0 +1,5 @@
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache

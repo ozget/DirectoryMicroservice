@@ -1,0 +1,11 @@
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net5.0\ContactService.Infrastructure.deps.json
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net5.0\ContactService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net5.0\ref\ContactService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net5.0\ContactService.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ref\ContactService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net5.0\ContactService.Infrastructure.pdb

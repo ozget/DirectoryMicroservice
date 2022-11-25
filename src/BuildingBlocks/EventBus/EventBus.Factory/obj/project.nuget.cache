@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "BJCqecoVEHJ9Kd1IEvxb/YfLrkdK3Hb+x+R9tgpmEY2WOO4QedP8DQilvSHwyPy/FfWl02n2EMWXE1stOFo2sA==",
+  "dgSpecHash": "yCvN2oRRHoXlor6nlgovhOyIbNIUQoq02ZvWhH70o9x8JgRDsMFEERFoB8CjHEQdYxMMvsHpBCKZNu+eu5wlNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
