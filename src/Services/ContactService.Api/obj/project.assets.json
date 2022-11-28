@@ -627,6 +627,10 @@
       "ContactService.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ContactService.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.0"
+        },
         "compile": {
           "bin/placeholder/ContactService.Application.dll": {}
         },
@@ -648,6 +652,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "ContactService.Application": "1.0.0",
           "ContactService.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.0",
           "Microsoft.Extensions.Configuration": "7.0.0",

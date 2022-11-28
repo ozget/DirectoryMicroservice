@@ -9,8 +9,6 @@ namespace ContactService.Domain
 {
     public class Person:BaseEntity
     {
-        [Key]
-        public Guid Id { get; set; }
         public string Name { get; set; }
         public string SurName { get; set; }
         public string Firm { get; set; }

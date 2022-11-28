@@ -9,8 +9,6 @@ namespace ContactService.Domain
 {
     public class Contact:BaseEntity
     {
-        [Key]
-        public Guid Id { get; set; }
         public int Phone { get; set; }
         public string Email { get; set; }
         public string Location { get; set; }

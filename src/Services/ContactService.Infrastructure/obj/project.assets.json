@@ -546,6 +546,20 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "ContactService.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ContactService.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ContactService.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContactService.Application.dll": {}
+        }
+      },
       "ContactService.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1363,6 +1377,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ContactService.Application/1.0.0": {
+      "type": "project",
+      "path": "../ContactService.Application/ContactService.Application.csproj",
+      "msbuildProject": "../ContactService.Application/ContactService.Application.csproj"
+    },
     "ContactService.Domain/1.0.0": {
       "type": "project",
       "path": "../ContactService.Domain/ContactService.Domain.csproj",
@@ -1371,6 +1390,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ContactService.Application >= 1.0.0",
       "ContactService.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
@@ -1411,6 +1431,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj": {
+              "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj"
+            },
             "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Domain\\ContactService.Domain.csproj": {
               "projectPath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Domain\\ContactService.Domain.csproj"
             }

@@ -22,7 +22,7 @@ namespace EventBus.RabbitMQ
         public EventBusRabbitMQ(EventBusConfig config,IServiceProvider serviceProvider):base(config,serviceProvider)
         {
             if (config.Connection != null)
-            {//TODO EventBusConfig 
+            {
                 var connJson = JsonConvert.SerializeObject(_eventBusConfig.Connection, new JsonSerializerSettings()
                 {
                     ReferenceLoopHandling = ReferenceLoopHandling.Ignore
