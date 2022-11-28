@@ -26,3 +26,4 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\ob
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\obj\Debug\net5.0\ref\ContactService.Api.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\obj\Debug\net5.0\ContactService.Api.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\obj\Debug\net5.0\ContactService.Api.genruntimeconfig.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\obj\Debug\net5.0\ContactService.Api.csproj.AssemblyReference.cache

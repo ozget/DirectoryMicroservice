@@ -1,0 +1,12 @@
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.deps.json
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.AssemblyReference.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\refint\ContactService.Domain.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Domain\obj\Debug\net6.0\ref\ContactService.Domain.dll

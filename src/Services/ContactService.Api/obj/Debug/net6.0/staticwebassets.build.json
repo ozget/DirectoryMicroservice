@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RMGKqdf7C6+gX9bfxWWszqNhCX5+Sw5ZIZAT5Z7vRng=",
+  "Source": "ContactService.Api",
+  "BasePath": "_content/ContactService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

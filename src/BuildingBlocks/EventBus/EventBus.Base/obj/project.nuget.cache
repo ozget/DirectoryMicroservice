@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "022U9oyu8N5mS10R8MbEli1SE3dAmJ7J5e4NZXFafAG4XWScYxs79QXdr5sk7gdDH3nG9vxkRxZMoBn3cARi/w==",
+  "dgSpecHash": "bScvaxL3Irys9ws1MEJqWkwDJSElaXxHABc0oNjug/50V5+vE4bUGP0LEyKKyAEtVtEHAMfI7dmsVQvLvi4MhQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
   "expectedPackageFiles": [
