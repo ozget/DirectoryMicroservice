@@ -1,0 +1,12 @@
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Infrastructure.deps.json
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.AssemblyInfo.cs
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\refint\ReportService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ref\ReportService.Infrastructure.dll

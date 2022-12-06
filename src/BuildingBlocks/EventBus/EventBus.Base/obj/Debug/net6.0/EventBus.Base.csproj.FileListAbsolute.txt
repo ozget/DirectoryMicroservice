@@ -7,6 +7,6 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventB
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.AssemblyInfo.cs
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.csproj.CoreCompileInputs.cache
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\refint\EventBus.Base.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\ref\EventBus.Base.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\EventBus.Base.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net6.0\refint\EventBus.Base.dll

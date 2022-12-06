@@ -1,4 +1,6 @@
-﻿using ContactService.Infrastructure.Context;
+﻿using ContactService.Application.Repositories;
+using ContactService.Infrastructure.Context;
+using ContactService.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -13,9 +15,11 @@ namespace ContactService.Infrastructure
     {
         public static void AddPersistenceServices(this IServiceCollection service)
         {
-            // service.AddSingleton<IProductService, ProductService>();
+            
 
             service.AddDbContext<DirectoryDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
+            service.AddScoped<IContactRepository, ContactRepository>();
+            service.AddScoped<IPersonRepository, PersonRepository>();
 
         }
     }

@@ -1,7 +1,10 @@
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Infrastructure.deps.json
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Infrastructure.runtimeconfig.json
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Infrastructure.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Infrastructure.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Application.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Domain.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Application.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Domain.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,8 +13,7 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infras
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.csproj.CopyComplete
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\refint\ContactService.Infrastructure.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ref\ContactService.Infrastructure.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\bin\Debug\net6.0\ContactService.Infrastructure.runtimeconfig.json
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\ContactService.Infrastructure.genruntimeconfig.cache
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Infrastructure\obj\Debug\net6.0\refint\ContactService.Infrastructure.dll

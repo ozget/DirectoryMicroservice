@@ -75,9 +75,6 @@ namespace ContactService.Infrastructure.Migrations
                     b.Property<string>("Firm")
                         .HasColumnType("text");
 
-                    b.Property<int>("MyProperty")
-                        .HasColumnType("integer");
-
                     b.Property<string>("Name")
                         .HasColumnType("text");
 

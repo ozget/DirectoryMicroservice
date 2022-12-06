@@ -21,7 +21,7 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\scopedcss\bundle\ReportService.Api.styles.css
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ReportService.Api.csproj.CopyComplete
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ReportService.Api.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\refint\ReportService.Api.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ref\ReportService.Api.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ReportService.Api.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ReportService.Api.genruntimeconfig.cache
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\ref\ReportService.Api.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Api\obj\Debug\net6.0\refint\ReportService.Api.dll

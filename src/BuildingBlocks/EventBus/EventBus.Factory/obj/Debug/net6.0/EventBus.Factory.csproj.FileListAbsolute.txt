@@ -12,6 +12,6 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventB
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\EventBus.Factory.csproj.CoreCompileInputs.cache
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\EventBus.Factory.csproj.CopyComplete
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\EventBus.Factory.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\refint\EventBus.Factory.dll
-C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\EventBus.Factory.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\ref\EventBus.Factory.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\EventBus.Factory.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net6.0\refint\EventBus.Factory.dll

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PTJMyLOq7tTyLmh4P736ssF/zjgmbokiHT9ehpQSf+jpOzZWIku4rU0ZaUikky1BVH4a702JDSyVZMJNxpdtRA==",
+  "dgSpecHash": "pexF9UqwHe+oRf116Om0n2FT+x7c/9KrIVysKnUPiHWVWgjLY7Hpo03HpeOPW2NTdb+aihBlH8Olnz2UvYVbVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ozge.toprak\\Desktop\\DirectoryProject\\src\\Services\\ContactService.Application\\ContactService.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\ozge.toprak\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ozge.toprak\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0\\microsoft.entityframeworkcore.analyzers.7.0.0.nupkg.sha512",
