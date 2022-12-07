@@ -49,6 +49,14 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "Ocelot.Provider.Consul": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

@@ -10,3 +10,8 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrast
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\refint\ReportService.Infrastructure.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.pdb
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ref\ReportService.Infrastructure.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Application.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Domain.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Application.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\bin\Debug\net6.0\ReportService.Domain.pdb
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ReportService.Infrastructure\obj\Debug\net6.0\ReportService.Infrastructure.csproj.CopyComplete

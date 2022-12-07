@@ -62,3 +62,6 @@ C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bi
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\Consul.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\ozge.toprak\Desktop\DirectoryProject\src\Services\ContactService.Api\bin\Debug\net6.0\Newtonsoft.Json.dll

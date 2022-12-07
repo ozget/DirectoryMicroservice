@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace ContactService.Application.Repositories
 {
-    public interface IRepository<T> where T : BaseEntity
+    public interface IRepository<T>:IBaseRepository<T> where T : BaseEntity
     {
-        DbSet<T> Table { get; }
+      //  DbSet<T> Table { get; }
         Task<bool> AddAsync(T model);
         Task<bool> AddRangeAsync(List<T> datas);
         bool Remove(T model);
